@@ -1,6 +1,4 @@
 # Tabby
-TabLayout for ios as android 
-
 ***
 TabLayout for ios as android with two option style TabLayoutIcon and TabLayoutTitle
 
